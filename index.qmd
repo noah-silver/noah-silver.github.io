@@ -6,7 +6,7 @@ title-block-banner: false
 
 ::: {.hero}
 
-![](assets/img/headshot.png){.headshot fig-alt="Noah Silver"}
+![](assets/img/headshot.jpg){.headshot fig-alt="Noah Silver"}
 
 ::: {.hero-text}
 # Noah Silver

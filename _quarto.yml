@@ -8,7 +8,7 @@ website:
   title: "Noah Silver"
   description: "Yale MBA candidate focused on strategy, M&A, and energy and infrastructure finance."
   site-url: "https://noah-silver.github.io"
-  favicon: assets/img/headshot.png
+  favicon: assets/img/headshot.jpg
   open-graph: true
   page-navigation: false
   navbar:
