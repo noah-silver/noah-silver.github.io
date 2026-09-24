@@ -11,6 +11,8 @@ At Yale I'm deepening the finance and strategy side of that work. My coursework 
 ## Experience
 
 ::: {.role}
+<img src="assets/img/logos/solect.svg" class="role-logo" alt="Solect Energy logo">
+
 ::: {}
 [Solect Energy, a Pattern Energy company]{.org}<br>
 [Associate, Strategic Finance]{.title}
@@ -28,6 +30,8 @@ At Yale I'm deepening the finance and strategy side of that work. My coursework 
 :::
 
 ::: {.role}
+<img src="assets/img/logos/solect.svg" class="role-logo" alt="Solect Energy logo">
+
 ::: {}
 [Solect Energy]{.org}<br>
 [Senior Financial Analyst]{.title}
@@ -42,6 +46,8 @@ At Yale I'm deepening the finance and strategy side of that work. My coursework 
 :::
 
 ::: {.role}
+<img src="assets/img/logos/iec.svg" class="role-logo" alt="Industrial Economics logo">
+
 ::: {}
 [Industrial Economics, Inc. (IEc)]{.org}<br>
 [Associate Consultant]{.title}
@@ -56,21 +62,40 @@ At Yale I'm deepening the finance and strategy side of that work. My coursework 
 :::
 
 ::: {.role}
+<img src="assets/img/logos/asu.svg" class="role-logo" alt="Arizona State University logo">
+
 ::: {}
-[Research roles]{.org}<br>
-[ASU Center for Environmental Economics and Sustainability Policy; USC Center for Economic Development]{.title}
+[ASU Center for Environmental Economics and Sustainability Policy]{.org}<br>
+[Research Assistant to Dr. W. Michael Hanemann]{.title}
 :::
 ::: {}
-[2018 – 2022]{.dates}
+[2020 – 2022]{.dates}<br>
+[Remote]{.place}
 :::
 
-- Research assistant to [Dr. W. Michael Hanemann](https://are.berkeley.edu/users/michael-hanemann), building a regression discontinuity model of how soil dryness affects agricultural profits using USGS, Federal Reserve, and climate data
+- Built a regression discontinuity model of how soil dryness affects agricultural profits, using USGS, Federal Reserve, and climate data
+:::
+
+::: {.role}
+<img src="assets/img/logos/usc.svg" class="role-logo" alt="University of Southern California logo">
+
+::: {}
+[USC Center for Economic Development]{.org}<br>
+[Research Assistant]{.title}
+:::
+::: {}
+[2018 – 2020]{.dates}<br>
+[Los Angeles, CA]{.place}
+:::
+
 - Supported regional economic development research for the Advanced Manufacturing Partnership for Southern California
 :::
 
 ## Education
 
 ::: {.role}
+<img src="assets/img/logos/yale-som.svg" class="role-logo" alt="Yale School of Management logo">
+
 ::: {}
 [Yale School of Management]{.org}<br>
 [Master of Business Administration · Dean's Scholar]{.title}
@@ -82,6 +107,8 @@ At Yale I'm deepening the finance and strategy side of that work. My coursework 
 :::
 
 ::: {.role}
+<img src="assets/img/logos/usc.svg" class="role-logo" alt="University of Southern California logo">
+
 ::: {}
 [University of Southern California]{.org}<br>
 [Master of Public Policy · Dean's Merit Scholar, EDF Climate Corps Fellow]{.title}
@@ -93,6 +120,8 @@ At Yale I'm deepening the finance and strategy side of that work. My coursework 
 :::
 
 ::: {.role}
+<img src="assets/img/logos/usc.svg" class="role-logo" alt="University of Southern California logo">
+
 ::: {}
 [University of Southern California]{.org}<br>
 [B.A., Political Economy and Statistics, magna cum laude · Presidential Scholar, National Merit Scholar]{.title}
