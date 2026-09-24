@@ -1,0 +1,112 @@
+---
+title: "About"
+---
+
+MBA candidate and Dean's Scholar at Yale School of Management with a background in strategic finance, M&A, commercial strategy, and investment analysis across energy and infrastructure.
+
+Most recently, I helped scale Solect Energy, a Pattern Energy company and the Northeast's leading commercial and industrial solar and storage platform. I designed and launched fixed-price front-of-the-meter PPAs, a new commercial offering that solved a tax equity financing barrier and opened a market the company had not previously served. It grew into a standing line of business. I also led diligence, valuation, and underwriting on solar and storage acquisitions, including a developer platform I took to the investment committee, and drove the market-entry analysis behind expansion into six new states across the Northeast and Mid-Atlantic.
+
+At Yale I'm deepening the finance and strategy side of that work. My coursework spans SOM, Yale Law School, the School of the Environment, and the Jackson School of Global Affairs, focused on corporate finance, energy markets, and the policy and regulatory dynamics shaping the energy transition.
+
+## Experience
+
+::: {.role}
+::: {}
+[Solect Energy, a Pattern Energy company]{.org}<br>
+[Associate, Strategic Finance]{.title}
+:::
+::: {}
+[2025 – 2026]{.dates}<br>
+[Hopkinton, MA]{.place}
+:::
+
+- Built the acquisition model for a $20M developer platform opportunity, valuing pipeline, assets, and capital structure; presented to the investment committee and redirected the deal from a platform to a pipeline acquisition
+- Underwrote 18MW of solar and storage acquisitions and closed $12M, using scenario analysis to shape offer strategy and deal terms through investment committee review
+- Led modeling, diligence, and execution for $15M of tax equity across two closings; supported $80M more across ten closings
+- Ran market-entry analysis on regulation, cost structure, and demand that supported expansion into Maine, New Jersey, New York, Pennsylvania, Maryland, and Virginia
+- Developed the corporate valuation model used for capital allocation, and prepared valuation materials with investment bankers for a confidential strategic transaction
+:::
+
+::: {.role}
+::: {}
+[Solect Energy]{.org}<br>
+[Senior Financial Analyst]{.title}
+:::
+::: {}
+[2023 – 2025]{.dates}<br>
+[Hopkinton, MA]{.place}
+:::
+
+- Advised business development on pricing, offtake, and contract structure across a 60MW+ (~$90M) development pipeline, and defended the commercial rationale at investment committee
+- Designed and launched a new commercial structure that solved a financing barrier and expanded the development pipeline
+:::
+
+::: {.role}
+::: {}
+[Industrial Economics, Inc. (IEc)]{.org}<br>
+[Associate Consultant]{.title}
+:::
+::: {}
+[2021 – 2023]{.dates}<br>
+[Cambridge, MA]{.place}
+:::
+
+- Delivered natural resource damage assessment, ESG, and cost-benefit analyses for federal agencies (CBP, NOAA, EPA) and Fortune 500 clients to support regulatory and rulemaking work
+- Designed a recreation impact survey and trained field staff across 25 sites for the Portland Harbor Superfund damages assessment
+:::
+
+::: {.role}
+::: {}
+[Research roles]{.org}<br>
+[ASU Center for Environmental Economics and Sustainability Policy; USC Center for Economic Development]{.title}
+:::
+::: {}
+[2018 – 2022]{.dates}
+:::
+
+- Research assistant to [Dr. W. Michael Hanemann](https://are.berkeley.edu/users/michael-hanemann), building a regression discontinuity model of how soil dryness affects agricultural profits using USGS, Federal Reserve, and climate data
+- Supported regional economic development research for the Advanced Manufacturing Partnership for Southern California
+:::
+
+## Education
+
+::: {.role}
+::: {}
+[Yale School of Management]{.org}<br>
+[Master of Business Administration · Dean's Scholar]{.title}
+:::
+::: {}
+[Class of 2028]{.dates}<br>
+[New Haven, CT]{.place}
+:::
+:::
+
+::: {.role}
+::: {}
+[University of Southern California]{.org}<br>
+[Master of Public Policy · Dean's Merit Scholar, EDF Climate Corps Fellow]{.title}
+:::
+::: {}
+[2021]{.dates}<br>
+[Los Angeles, CA]{.place}
+:::
+:::
+
+::: {.role}
+::: {}
+[University of Southern California]{.org}<br>
+[B.A., Political Economy and Statistics, magna cum laude · Presidential Scholar, National Merit Scholar]{.title}
+:::
+::: {}
+[2020]{.dates}<br>
+[Los Angeles, CA]{.place}
+:::
+:::
+
+## Skills
+
+Commercial strategy · M&A due diligence · Valuation · Project finance · Tax equity structuring (partnership flip, sale-leaseback) · Financial modeling · R and statistical analysis
+
+## Outside work
+
+Distance running, strength training, Chicago Bears and USC Trojans football, travel, coffee, and wine.

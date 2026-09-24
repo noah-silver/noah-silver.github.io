@@ -1,0 +1,310 @@
+/*-- scss:defaults --*/
+
+$navy: #0f2a47;
+$ink: #1f2933;
+$slate: #52606d;
+$rule: #e4e7eb;
+$paper: #ffffff;
+$wash: #f5f7fa;
+$accent: #1d5c8f;
+$gold: #b8893b;
+
+$body-bg: $paper;
+$body-color: $ink;
+$link-color: $accent;
+$primary: $navy;
+
+$font-family-sans-serif: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+$headings-font-family: "Source Serif 4", Georgia, "Times New Roman", serif;
+$headings-font-weight: 600;
+$headings-color: $navy;
+$font-size-root: 17px;
+$line-height-base: 1.65;
+
+$navbar-bg: $paper;
+$navbar-fg: $navy;
+$navbar-hl: $accent;
+$footer-bg: $paper;
+$footer-fg: $slate;
+
+/*-- scss:rules --*/
+
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Source+Serif+4:opsz,wght@8..60,500;8..60,600&display=swap");
+
+h1, h2, h3, h4, .figure-value, .paper-title {
+  font-variant-numeric: lining-nums;
+}
+
+.navbar {
+  border-bottom: 1px solid $rule;
+  box-shadow: none;
+}
+
+.navbar-brand .navbar-title {
+  font-family: $headings-font-family;
+  font-weight: 600;
+  letter-spacing: 0.01em;
+}
+
+.nav-link {
+  font-size: 0.92rem;
+  font-weight: 500;
+}
+
+a {
+  text-decoration: none;
+  &:hover { text-decoration: underline; }
+}
+
+h1.title, .quarto-title h1 {
+  font-size: 2.2rem;
+}
+
+h2 {
+  font-size: 1.45rem;
+  margin-top: 2.4rem;
+  padding-bottom: 0.35rem;
+  border-bottom: 1px solid $rule;
+}
+
+// ---- Home hero -------------------------------------------------------------
+
+.hero {
+  display: grid;
+  grid-template-columns: 220px 1fr;
+  gap: 3rem;
+  align-items: center;
+  padding: 2.5rem 0 2rem;
+}
+
+.hero img.headshot {
+  width: 220px;
+  height: 220px;
+  border-radius: 50%;
+  object-fit: cover;
+  box-shadow: 0 0 0 6px $wash;
+}
+
+.hero h1 {
+  font-size: 2.6rem;
+  margin: 0 0 0.35rem;
+  border: none;
+}
+
+.hero .headline {
+  color: $gold;
+  font-size: 0.82rem;
+  font-weight: 600;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  margin-bottom: 1.1rem;
+}
+
+.hero .lede {
+  font-size: 1.12rem;
+  color: $ink;
+  max-width: 38rem;
+}
+
+.hero .cta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+  margin-top: 1.4rem;
+}
+
+.btn-outline {
+  display: inline-block;
+  padding: 0.45rem 1rem;
+  border: 1px solid $navy;
+  border-radius: 3px;
+  color: $navy;
+  font-size: 0.88rem;
+  font-weight: 500;
+  &:hover { background: $navy; color: $paper; text-decoration: none; }
+}
+
+.btn-solid {
+  @extend .btn-outline;
+  background: $navy;
+  color: $paper;
+  &:hover { background: $accent; border-color: $accent; }
+}
+
+@media (max-width: 720px) {
+  .hero { grid-template-columns: 1fr; gap: 1.5rem; text-align: center; }
+  .hero img.headshot { width: 160px; height: 160px; margin: 0 auto; }
+  .hero .lede { margin: 0 auto; }
+  .hero .cta { justify-content: center; }
+}
+
+// ---- Highlights strip ------------------------------------------------------
+
+.highlights {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  border-top: 1px solid $rule;
+  border-bottom: 1px solid $rule;
+  margin: 1rem 0 0.5rem;
+}
+
+.highlight {
+  padding: 1.3rem 1rem;
+  border-left: 1px solid $rule;
+  &:first-child { border-left: none; }
+}
+
+.highlight .figure-value {
+  font-family: $font-family-sans-serif;
+  letter-spacing: -0.02em;
+  font-size: 1.9rem;
+  font-weight: 600;
+  color: $navy;
+  line-height: 1.1;
+}
+
+.highlight .figure-label {
+  font-size: 0.82rem;
+  color: $slate;
+  margin-top: 0.3rem;
+  line-height: 1.4;
+}
+
+@media (max-width: 720px) {
+  .highlights { grid-template-columns: repeat(2, 1fr); }
+  .highlight:nth-child(3) { border-left: none; }
+  .highlight:nth-child(n+3) { border-top: 1px solid $rule; }
+}
+
+// ---- Section cards (home) --------------------------------------------------
+
+.section-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1.25rem;
+  margin-top: 1rem;
+}
+
+.section-card {
+  display: block;
+  color: inherit;
+  &:hover { text-decoration: none; }
+  border: 1px solid $rule;
+  border-radius: 4px;
+  padding: 1.2rem 1.3rem;
+  background: $paper;
+  transition: border-color 0.15s ease;
+  &:hover { border-color: $accent; }
+  h3 { font-size: 1.1rem; margin: 0 0 0.4rem; }
+  p { font-size: 0.92rem; color: $slate; margin: 0; }
+  a.stretched { color: inherit; &:hover { text-decoration: none; } }
+}
+
+@media (max-width: 720px) {
+  .section-grid { grid-template-columns: 1fr; }
+}
+
+// ---- Experience timeline (about) -------------------------------------------
+
+.role {
+  display: grid;
+  grid-template-columns: 1fr auto;
+  column-gap: 1rem;
+  padding: 1.1rem 0;
+  border-bottom: 1px solid $rule;
+  &:last-child { border-bottom: none; }
+}
+
+.role .org {
+  font-weight: 600;
+  color: $navy;
+}
+
+.role .title {
+  color: $ink;
+}
+
+.role .dates, .role .place {
+  color: $slate;
+  font-size: 0.88rem;
+  text-align: right;
+  white-space: nowrap;
+}
+
+.role ul {
+  grid-column: 1 / -1;
+  margin: 0.55rem 0 0;
+  padding-left: 1.1rem;
+  font-size: 0.95rem;
+  li { margin-bottom: 0.3rem; }
+}
+
+// ---- Papers list (writing) -------------------------------------------------
+
+.paper {
+  padding: 1.2rem 0;
+  border-bottom: 1px solid $rule;
+  &:last-child { border-bottom: none; }
+}
+
+.paper .paper-title {
+  font-family: $headings-font-family;
+  font-size: 1.15rem;
+  font-weight: 600;
+  color: $navy;
+}
+
+.paper .paper-meta {
+  font-size: 0.86rem;
+  color: $slate;
+  margin: 0.2rem 0 0.5rem;
+}
+
+.paper p {
+  font-size: 0.95rem;
+  margin-bottom: 0.5rem;
+}
+
+.paper .paper-link {
+  font-size: 0.88rem;
+  font-weight: 500;
+}
+
+// ---- Project cards ---------------------------------------------------------
+
+.project-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1.5rem;
+  margin-top: 1rem;
+}
+
+.project {
+  border: 1px solid $rule;
+  border-radius: 4px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  img {
+    width: 100%;
+    height: 190px;
+    object-fit: cover;
+    object-position: top;
+    border-bottom: 1px solid $rule;
+    background: $wash;
+  }
+  .project-body { padding: 1rem 1.2rem 1.2rem; flex: 1; display: flex; flex-direction: column; }
+  h3 { font-size: 1.08rem; margin: 0 0 0.35rem; }
+  p { font-size: 0.92rem; color: $slate; margin: 0 0 0.8rem; flex: 1; }
+  .project-links { font-size: 0.86rem; font-weight: 500; }
+  .project-links p { margin: 0; }
+  .project-links a + a { margin-left: 1.25rem; }
+}
+
+@media (max-width: 720px) {
+  .project-grid { grid-template-columns: 1fr; }
+}
+
+.muted {
+  color: $slate;
+}

@@ -1,0 +1,49 @@
+project:
+  type: website
+  output-dir: _site
+  resources:
+    - papers/
+
+website:
+  title: "Noah Silver"
+  description: "Yale MBA candidate focused on strategy, M&A, and energy and infrastructure finance."
+  site-url: "https://noah-silver.github.io"
+  favicon: assets/img/headshot.png
+  open-graph: true
+  page-navigation: false
+  navbar:
+    background: light
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: writing.qmd
+        text: Writing
+      - href: projects.qmd
+        text: Projects
+    right:
+      - icon: linkedin
+        href: https://www.linkedin.com/in/noah-silver/
+        aria-label: LinkedIn
+      - icon: github
+        href: https://github.com/noah-silver
+        aria-label: GitHub
+      - icon: envelope
+        href: mailto:noah.silver@yale.edu
+        aria-label: Email
+  page-footer:
+    left: "© 2026 Noah Silver"
+    right:
+      - text: "noah.silver@yale.edu"
+        href: mailto:noah.silver@yale.edu
+
+format:
+  html:
+    theme:
+      - cosmo
+      - styles/theme.scss
+    toc: false
+    link-external-newwindow: true
+    smooth-scroll: true
+    anchor-sections: false

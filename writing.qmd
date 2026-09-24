@@ -1,0 +1,52 @@
+---
+title: "Writing"
+subtitle: "Policy research from my graduate and undergraduate work at USC."
+---
+
+::: {.paper}
+[Developing a Novel Carbon Offset Program in USC's Surrounding Communities of South and East Los Angeles]{.paper-title}
+
+::: {.paper-meta}
+Research report for USC's Presidential Working Group on Sustainability · May 2021 · With Xingyu Xiong, Samuel Wands, and Karla Fernandez · 63 pages
+:::
+
+Written for USC President Carol Folt's sustainability working group. Evaluates offset options and recommends a hyper-local strategy that would reduce USC's emissions by funding energy efficiency and other carbon-reducing projects in the surrounding South and East Los Angeles communities.
+
+[Read the report (PDF)](papers/usc-carbon-offset-program-2021.pdf){.paper-link}
+:::
+
+::: {.paper}
+[Meeting Water Supply Challenges in the Colorado River Basin]{.paper-title}
+
+::: {.paper-meta}
+USC Sol Price School of Public Policy · April 2019 · 15 pages
+:::
+
+Argues that farm subsidies, federal and state fights over apportionment, and prior appropriation's use-it-or-lose-it rules are driving demand past supply. Recommends reforming Farm Bill subsidies, creating an independent regional water bank, and ending forfeiture of unused water rights.
+
+[Read the paper (PDF)](papers/colorado-river-water-supply-2019.pdf){.paper-link}
+:::
+
+::: {.paper}
+[Trade Implications of Climate Change in United States Ports]{.paper-title}
+
+::: {.paper-meta}
+USC Sol Price School of Public Policy · January 2019 · 11 pages
+:::
+
+Uses storm damage from Katrina and Harvey as a baseline for the risk that sea level rise and stronger storms pose to US seaports, and the delays and lost trade revenue that could follow.
+
+[Read the paper (PDF)](papers/climate-change-us-ports-2019.pdf){.paper-link}
+:::
+
+::: {.paper}
+[Caribbean Coral Reef Degradation Policy White Paper]{.paper-title}
+
+::: {.paper-meta}
+Prepared for the Coral Reef Alliance · December 2018 · 24 pages
+:::
+
+Traces reef loss to coastal development and runoff, climate change, and overfishing. Recommends training local fishermen as coral gardeners and small business owners, updating permitting criteria, and moving to fisheries co-management.
+
+[Read the white paper (PDF)](papers/caribbean-coral-reef-policy-2018.pdf){.paper-link}
+:::

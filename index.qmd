@@ -1,0 +1,86 @@
+---
+pagetitle: "Noah Silver"
+page-layout: full
+title-block-banner: false
+---
+
+::: {.hero}
+
+![](assets/img/headshot.png){.headshot fig-alt="Noah Silver"}
+
+::: {.hero-text}
+# Noah Silver
+
+::: {.headline}
+Yale MBA Candidate &nbsp;|&nbsp; Strategy & M&A &nbsp;|&nbsp; Energy & Infrastructure
+:::
+
+::: {.lede}
+MBA candidate and Dean's Scholar at Yale School of Management with a background in strategic finance, M&A, commercial strategy, and investment analysis across energy and infrastructure.
+:::
+
+::: {.cta}
+[About me](about.qmd){.btn-solid}
+[LinkedIn](https://www.linkedin.com/in/noah-silver/){.btn-outline}
+[Email](mailto:noah.silver@yale.edu){.btn-outline}
+:::
+:::
+
+:::
+
+::: {.highlights}
+
+::: {.highlight}
+::: {.figure-value}
+$12M
+:::
+::: {.figure-label}
+Solar and storage acquisitions closed
+:::
+:::
+
+::: {.highlight}
+::: {.figure-value}
+$15M
+:::
+::: {.figure-label}
+Tax equity led across two closings, plus $80M supported
+:::
+:::
+
+::: {.highlight}
+::: {.figure-value}
+6
+:::
+::: {.figure-label}
+New state markets entered, from Maine to Virginia
+:::
+:::
+
+::: {.highlight}
+::: {.figure-value}
+60MW+
+:::
+::: {.figure-label}
+Development pipeline priced and structured
+:::
+:::
+
+:::
+
+```{=html}
+<div class="section-grid">
+  <a class="section-card" href="about.html">
+    <h3>About</h3>
+    <p>Solect Energy, IEc, and USC, and what I'm working on at Yale.</p>
+  </a>
+  <a class="section-card" href="writing.html">
+    <h3>Writing</h3>
+    <p>Policy research on water, coral reefs, ports, and carbon offsets.</p>
+  </a>
+  <a class="section-card" href="projects.html">
+    <h3>Projects</h3>
+    <p>R Shiny apps and data visualization work.</p>
+  </a>
+</div>
+```

@@ -1,0 +1,87 @@
+---
+title: "Projects"
+subtitle: "Data apps and visualization work in R, mostly from 2021 and 2022."
+---
+
+::: {.project-grid}
+
+::: {.project}
+![](assets/img/projects/usgs.png){fig-alt="USGS Groundwater App screenshot"}
+
+::: {.project-body}
+### USGS Groundwater App
+An R Shiny app that lets researchers quickly visualize U.S. Geological Survey groundwater data by state or region.
+
+::: {.project-links}
+[Live app](https://noah-silver.shinyapps.io/usgsdatamanip/)
+[Code](https://github.com/noah-silver/USGS-Groundwater-App)
+:::
+:::
+:::
+
+::: {.project}
+![](assets/img/projects/nfl-app.png){fig-alt="NFL Win Probability App screenshot"}
+
+::: {.project-body}
+### NFL Win Probability
+An R Shiny app that charts the home team's win probability over the course of any NFL game.
+
+::: {.project-links}
+[Live app](https://noah-silver.shinyapps.io/NFL-WinProb/)
+[Code](https://github.com/noah-silver/NFL-Win-Probability-App)
+:::
+:::
+:::
+
+::: {.project}
+![](assets/img/projects/tidytuesday.png){fig-alt="TidyTuesday chart"}
+
+::: {.project-body}
+### TidyTuesday
+Weekly data analysis and visualization projects built on the R community's #TidyTuesday datasets.
+
+::: {.project-links}
+[Code](https://github.com/noah-silver/TidyTuesday)
+:::
+:::
+:::
+
+::: {.project}
+![](assets/img/projects/budget-app.png){fig-alt="Budget App screenshot"}
+
+::: {.project-body}
+### Budget App
+A simple R Shiny app for personal budgeting.
+
+::: {.project-links}
+[Live app](https://noah-silver.shinyapps.io/budget_app/)
+[Code](https://github.com/noah-silver/Budget-App)
+:::
+:::
+:::
+
+::: {.project}
+![](assets/img/projects/custom-r-themes.png){fig-alt="Custom RStudio theme"}
+
+::: {.project-body}
+### Custom RStudio Themes
+Custom editor themes for RStudio, built with the rsthemes package.
+
+::: {.project-links}
+[Code](https://github.com/noah-silver/R-Studio-Custom-Themes)
+:::
+:::
+:::
+
+::: {.project}
+::: {.project-body}
+### ESG Finance App
+An app that plots financial data against Newsweek's 2020 "America's Most Responsible Companies" ESG rankings.
+
+::: {.project-links}
+[Code](https://github.com/noah-silver/ESG_Finance_App)
+:::
+:::
+:::
+
+:::
